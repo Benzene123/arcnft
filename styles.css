@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+    color: white;
+}
+#one {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    font-family: 'Michroma', sans-serif;
+}
+.zero {
+    padding: 70px 40px 50px;
+    text-align: justify;
+    width: 45%;
+    font-size: 20px;
+}
+.xero {
+   padding: 50px 25px;
+    text-align: justify;
+    width: 47%;
+    font-size: 19px;
+}
+h1 {
+    font-size: 50px;
+    margin-bottom: 0px;
+    font-family: 'Michroma', sans-serif;
+}
+h4 {
+    font-size: 30px;
+}
+.two {
+    font-family: 'Orbitron', sans-serif;
+}
+em {
+    font-family: 'Oxygen', sans-serif;
+    font-weight: 600;
+}
+
+@media screen and (max-width: 700px) {
+    #one {
+        display: block;
+        justify-content: center;
+        padding: 50px 25px;
+        font-family: 'Michroma', sans-serif;
+    }
+    .zero,.xero {
+        width: 100%;
+        text-align: center;
+        font-size: 18px;
+    }
+}
+
