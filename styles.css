@@ -2,10 +2,12 @@ body {
     background-color: black;
     color: white;
     margin: 0px;
+    
 }
 #one {
     padding: 50px;
     font-family: 'Michroma', sans-serif;
+    font-size: 20px;
 }
 
 h1 {
@@ -34,6 +36,7 @@ footer {
     height: 25px;
     font-size: 20px;
     font-family: 'Orbitron', sans-serif;
+    word-spacing: 2px;
 }
 
 
@@ -41,7 +44,8 @@ footer {
 
     #one {
         padding: 25px; 
-        text-align: center; 
+        text-align: center;
+        font-size: 17px; 
     }
     hr {
         display: block;
