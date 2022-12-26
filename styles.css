@@ -6,7 +6,7 @@ body {
 }
 #one {
     padding: 50px;
-    font-family: 'Michroma', sans-serif;
+    font-family: 'Oxygen', sans-serif;
     font-size: 20px;
 }
 
@@ -23,7 +23,8 @@ h4 {
     font-family: 'Orbitron', sans-serif;
 }
 em {
-    font-family: 'Oxygen', sans-serif;
+    
+    font-family: 'Michroma', sans-serif;
     
 }
 hr {
@@ -45,7 +46,13 @@ footer {
     #one {
         padding: 25px; 
         text-align: center;
-        font-size: 17px; 
+        font-size: 19px; 
+    }
+    em {
+        font-size: 17px;
+    }
+    .two {
+        font-size: 18px;
     }
     hr {
         display: block;
