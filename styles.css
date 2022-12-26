@@ -48,11 +48,12 @@ footer {
         text-align: center;
         font-size: 19px; 
     }
+   
     em {
-        font-size: 17px;
+        font-size: 19px;
     }
     .two {
-        font-size: 18px;
+        font-size: 20px;
     }
     hr {
         display: block;
