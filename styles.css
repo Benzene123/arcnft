@@ -12,31 +12,19 @@ video {
     padding: 50px;
     font-family: 'Oxygen', sans-serif;
     font-size: 20px;
+    text-align: center;
 }
 
 h1 {
-    font-size: 50px;
+    padding-top: 50px;
+    font-size: 40px;
     margin-bottom: 0px;
     font-family: 'Michroma', sans-serif;
     
 }
-h4 {
-    font-size: 30px;
-}
-.two {
-    font-family: 'Orbitron', sans-serif;  
-}
-em {
-    
-    font-family: 'Oxygen', sans-serif;
-    
-}
-hr {
-    display: none;
-}
+
 footer {
-    background-color: white;
-    color: black;
+    opacity: 0.7;
     text-align: center;
     height: 25px;
     font-size: 20px;
@@ -53,18 +41,7 @@ footer {
         font-size: 19px; 
     }
    
-    em {
-        font-size: 19px;
-    }
-    .two {
-        font-size: 20px;
-    }
-    hr {
-        display: block;
-        width: 85%;
-        height: 2px;
-        background-color: white;
-    }
+
     footer {
         font-size: 17px;
     }
