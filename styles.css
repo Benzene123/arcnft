@@ -4,12 +4,14 @@ body {
     margin: 0px;
     
 }
-video {
-    width: 100%;
+img {
+    width: 80%;
     height: auto;
 }
 #one {
     padding: 50px;
+    box-sizing: border-box;
+    height: 100vh;
     font-family: 'Oxygen', sans-serif;
     font-size: 20px;
     text-align: center;
@@ -32,6 +34,10 @@ h1 {
         padding: 25px; 
         text-align: center;
         font-size: 19px; 
+    }
+    img {
+        width: 100%;
+        height: auto;
     }
    
 
