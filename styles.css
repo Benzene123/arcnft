@@ -35,17 +35,21 @@ h1 {
 @media screen and (max-width: 500px) {
 
     #one {
-        padding: 25px;     
+        padding: 25px; 
+        position: relative;    
     }
     .zero {
         padding-top: 25px;
+        position: absolute;
+        top: 50%;
     }
     h1 {
         font-size: 20px;
         text-align: center;
     }
     img {
-       max-width: 80%;
+       width: 100%;
+       height: auto;
     }
    
 
